@@ -1,5 +1,5 @@
 # promise-impl
-Very simple Promises/A+ implementation. Passes all tests from the Promises/A+ spec.
+Promises/A+ implementation focused on simplicity and readability. Passes all tests from the Promises/A+ spec.
 
 The implementation is called an `Eventual` and can be initialised like a normal `Promise`:
 ```js
